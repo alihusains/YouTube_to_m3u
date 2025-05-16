@@ -327,7 +327,7 @@ https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj" tvg-id="", GBNews
-https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747430508/ei/DFgnaIfbHfihlu8Pz4TCuQg/ip/20.241.18.117/id/0kqqpiWMPGM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaN9lN3z1ud5HttepcmJN2R7OIshLDrl5RYr9MyLVqy9omlrqTWMXRQ4xsZpxLYOL-HNfVJEQAU/spc/wk1kZmjh2O3UGFl6x5paR58iNx0cjGvCrfkl3fV3B1lc0HfTMag4alK1vk4LKv4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51469037/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeK7MB1FI21Pq_eGQdtYbsrB40TbehTtWWx8qUZ1iRgkCIF1CV0F4MWTqI96deZm4J8u9g3XGawk4iy5Z7DwLcY6E/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
