@@ -471,7 +471,7 @@ https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", A State Of Trance Radio
-https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751191181/ei/LbpgaLmiGq2QsfIPlPmY0AY/ip/104.40.70.3/id/NGsjwNsXE0w.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPWqx6yH1304MY3BWCuGjeAPVphVAKjyqX6bf8KshoKFcmWRp0gZH2GUhkg-BbH-j1kDdOWUV04/spc/l3OVKbXLM31VXk_mZY-jSr29jDh0nwPxH_1_MZhXPVXlUmsyF9TnptdBiT5J7aj86NI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP_jdjKfeZBxx5SoCh1QueUFtz6HQk_4HpSDdrXuJrR3AiEAtbs6xdfdU-HSOIpgfanljCaly5By_XvLKhr73Pwv_Rw%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", Geo News Live
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
