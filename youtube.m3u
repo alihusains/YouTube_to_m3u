@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png" tvg-id="", News 18 Kerala
-https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754725683/ei/06iWaL7pHvunlu8Pu6G64QY/ip/135.119.38.33/id/JGjywrWEcgY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLNlTTR8jKn3zK6NdTQrmN2q3OXGbLcp-QwyR8Ss5sax4AqgdgacG5BKLJFYG_32Lec2JxBqXJ3U/spc/l3OVKc3hgGAEvoCV6dBhkDRFosUxTtmiUJ_jDfTQWt3lcDFiWzqD3nDDlN2vgzlf_DU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMmvztdQ5rpKVpejVdX-S8J-Cr7hFy-gnYR_8_0tsK4-AiEAmD8xAdyFMgOkrhCKe7ywM_IHAnZFemIwsgbdehaiHig%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" tvg-id="636", Polimer News
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -192,7 +192,7 @@ https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Best Shuffle Dance Music 2021
-https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754725738/ei/CqmWaKO-J-nt2_gPkKSGgQ0/ip/135.119.38.33/id/qWf-FPFmVw0.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539855/txs/51539853%2C51539854%2C51539855/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLPCbQisSV4kDL0lQM0P8vWpIKzUNGnwmNG5Sa46slDC0l1v12LX32_Dt0HT0GaIbKPQJPyCq6u8/spc/l3OVKfqj-_y88KAdGXQnzh31eIrWGemjOykjA7CmCWu5ooV3_DUban1Ioigm0KYOo8A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgGF7gQPjp7NyFJDcArWTT508O4MuLfqhz48trsiR1fvcCIQDwu0m9L2rRxEiczc1jTKcx4bQ475l30u7jOB71IWVX0Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", NDTV Profit
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
