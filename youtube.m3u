@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://play-lh.googleusercontent.com/k0A88RrzsPqX1D75am5_bOJ3M2Y0R0fXi7gu4BfgmS2GkuUNvFnSLMmCaLBK0BhQ9Es" tvg-id="", Manorama News
-https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766611431/ei/hwVMaYuKH5iLr9gP5o2wqQo/ip/20.161.58.232/id/tgBTspqA5nY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3DpedxHfWMZi8ZBGzeTOlHOHSj-0Wy0DzU8ayaKDsEM10AM55rnCmRmw1ndyPbLCaZBz2KPULll/spc/wH4Qq6s-mRmfZfxYq5YDXSI3l_bxzB98yrtT7cJcFZnt08yzYPohMHzgAIvaSwOo_D8/vprv/1/go/1/ns/NaFYA_O0xbY8xdFol7lob60R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/lu4oA6J8h_t4H9HKyP/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgA8MiWY1tNndT8gFE1AKV7W128tk34Yc2tL6o57igHYUCIQCRkqhmHwDf54ajrfCKa29pIteeF9agNuaV7SEHjitLng%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png" tvg-id="", News 18 Kerala
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -477,7 +477,7 @@ https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", ARY News Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766602239/ei/nuFLadOcO9qM2_gPsZbcQQ/ip/20.169.76.177/id/RqUZ2Fv9l8w.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AYUSA3BRNIo7NI3jrOsaY8vIO9VLmgLLdeg-vmJoh3pTOP6MoPzSnAtq1SYkPvx3AKaZpYd4Jdw6qv2o/spc/wH4Qq4h7YnwIYkNHIDHzOuIPnn8_1_UbxfAJY9r3_KnVgFaE0n5IbZPNt2IAP9zFf9E/vprv/1/go/1/ns/C2txQaGgPfWO6Swo2Whb1N0R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/u4KDe1AgJvTaYY4-N2/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKbjVmtyn-b6y9uMXjdDk9cYDva9nV6b2qyBgpWhI1QICIClaKKOm5fWQWSk6VgwDfsw4KD3TiBnGK1SkJLx5Oc1C/file/index.m3u8
+https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", HSN
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
