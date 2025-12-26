@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png" tvg-id="673", News7 Tamil
-https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766774787/ei/o4NOad_tKJywlu8PjIWCUQ/ip/172.183.135.250/id/QI8JvWqlOgg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3BF4E4sLYK6LqP259YPb1V2BQXDCYwHaHO707NVvUk-cNMG59LBQFDYrE8lx8mtsAHk4Kswnqw7/spc/wH4QqycA2xFjxEXc3wdwwTbOmKWc3x4O9rnmL9mWa65z2_po7XBmAQQHAy13doT1H50/vprv/1/go/1/ns/9TAtPZKx_51vkR0S8IF6QDIR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/LwJ7dvXp9O0oRbRNsx/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOy0RjeuFQSeATYKG6xg3pSDicGJSBocuf5fY0sWeUrvAiAJq6qQY2SGX082Z8HAhrAOgI_1iixiG7jw9bxEYN6Hjg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://www.thanthitv.com/Images/TTV-800x800.png" tvg-id="830", Thanthi TV
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
