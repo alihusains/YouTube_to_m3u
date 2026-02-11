@@ -741,7 +741,7 @@ https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Arabic" tvg-logo="" tvg-id="", Al-Jazeera
-https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1770858642/ei/MtSMaeb6J9Skir4P0OXr-Q8/ip/52.173.181.22/id/bNyUyrR0PHo.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/0/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AW-iu_px7QABIEJT5D_MbVVx-NLj-5hlCPB9gBCo3j2ULThNDPp4CJO4c0JDD_XaD1okivyAdRxt4Q-a/spc/q5xjPKhMa6aUdeNremiO6rbsPy5-pVFOAU3IY-F6-a9OoP4lVYvIPZ3uo8R_YDOkuu_MRQ/vprv/1/go/1/ns/R4lgqhLFsAqm8KmOlBTV2XAS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968/dover/11/n/MjWLZHmhyDcI2-mD/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgMkWX1GfHn7ZviwdqlkLBxlZfZovEXCATsT3tIl8qMecCIDfyR9fBE1Alg3rP5TnanRI1eZ142fLMvnRotJ6Q17zi/file/index.m3u8
 
 #EXTINF:-1 group-title="Arabic" tvg-logo="" tvg-id="", Al-Jazeera Mubasher
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -756,7 +756,7 @@ https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Greece" tvg-logo="" tvg-id="", Euronews Greece LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1770847736/ei/mKmMaZOlNuG1kucP3oXPwA8/ip/20.49.61.56/id/uWIhV9gQClg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/0/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_q2ZD4oRFtsPUg7BLT1xDtszRalbtkcJuNIR2ezV0tWXL9qVnoY19kcdSZWAMAHjo0KxveYi1Mu/spc/q5xjPK8l2SZGyzdU_YhGSbpT7-uRkznd3xdmjkwwZ79xvRXNLq9tXYxOKCx5EZXgajMQ6g/vprv/1/go/1/ns/RZYV5QVempITA5fbza-IPcoS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968/dover/11/n/fsOhSIen8VysbnEA/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgc9s21U8BXPXDIrth8wF0YukXPn8TYiuL5U5GDdrXL1ICIQC3G3EpX9BXcshGdl7mZwwasgzNKuf_cIvV-jOyazyunQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg" tvg-id="", ANN JapaNews24
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
