@@ -207,7 +207,7 @@ https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Aaj Tak
-https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773449285/ei/5Vu0aYK4KZOY-coP6vD4mAU/ip/172.184.220.145/id/Nq2wYlWFucg.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774349/txs/51774349%2C51774350%2C51774351%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-zgimFx5EIjyxJcuAfCoz-XUTFU1Tp6CXypsVTEOEdjXO6xJJaYjo5KnmK0_aauvd2OuVlk1cjt/spc/6dlaFAfyejOyOt6qe32QzYxOAIFV5TYhWZFobCKWpd92-pLeJ-zW2z-qpZhpIb8q2qposQ/vprv/1/go/1/ns/24kmX0zkCZJIsSZjVqB_X8gT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/7XcWftNlGBvTN-bGX67/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgYvBk448kQ9qIm44LIYhogZIyhyJ2jEt88XKPcJgU-s0CICEBj5XVMpiUtSXJoN9ddGgbd-ZlC-6tDDMiVkU4XAUW/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Ibiza Summer Mix 2021
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
