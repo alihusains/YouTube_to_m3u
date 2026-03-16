@@ -408,7 +408,7 @@ https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", WB Kids live
-https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773709674/ei/ClW4afjsJ4Sgir4PzMaV-A8/ip/52.154.131.99/id/Y_R_nhkMg7A.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-yL4JcWQ1KX9a5ye4Hx5HBkkDmHkGYhWv02z6mXcrPD-hNddrdbMYFQAzv9se3duKuAgjGAMT1P/spc/6dlaFHn1FdoYcGQr5oLxC6d00-26sfBOOlBNVYvDo3vAGT63FgrYF5B2_gevLuBzKE6HKg/vprv/1/go/1/ns/uDkJCG5mRFHGL5yHIFAvpGET/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51791334/dover/11/n/6WIT0GleCNDj_vZsV3j/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAIo1czMVV2D95tktn0XIuz3p_AOs3KQsy5vmMPW7U-_BAiEAsyGKSisS9cRxUhTGFt0nTIh1M4oeu2dFoQO1cnNU_Ic%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", DC Kids live
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
