@@ -540,7 +540,7 @@ https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Romania" tvg-logo="" tvg-id="", TRINITAS TV
-https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773909238/ei/lWC7acClPNilir4P3ZqXwQQ/ip/52.173.163.132/id/Q9R56mgOols.82/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-wiU2gTfDvggxbV2m9tYTlCo3yjnn3X7_sKFOcKnSFJVzCI9hJKUo4_yj8j-riT7P7dlDKFHLNE/spc/6dlaFAkjLk1JLJVwPGqilN20kCdLt-8Aivrr1EltrESid_o2gl5WRx-BXs_PBi1_ukRvKQ/vprv/1/go/1/ns/1i-jphyJ-Tp8UOSV4wgRr84T/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/3u8iHInP9zsuGf4m/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgd3dGsRuPdTmdXrGcElBfakqgicWUmxQ_NALrj2L9ifUCIQDh98a9Lton17JyX6Ij_3WmbOuCBGYCA9sKiJtdrUlQMQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="" tvg-id="", NASA Live: Official Stream of NASA TV
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -663,7 +663,7 @@ https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Webcam" tvg-logo="" tvg-id="", Ski Panorama
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773891710/ei/Hhy7aYfvEJ6wlu8PsoaTqA4/ip/172.183.91.35/id/HVt5n0CDRF8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773318/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-yNVKdlKCBk2Zt-9NYRxZdD7mm1AUOQvJyRhSsxy7LGCEzuyD1xpa8pCmyPwcmEIVL-Z2gujReY/spc/6dlaFBVoAXt2mfLGt8WKxqtrcBi-GDMh9nkFYzzEUeLRt5pdz-OEPzO41XTsAaYUm-JQHQ/vprv/1/go/1/ns/QjY-EIwzEQw9xS97XHcHHggT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51791334/dover/11/n/nDeJ1Lh1gbWwEOn3/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgMkIx1AtECRorgF081ycg-uPWpsnh49Nsy5GP1BQ07pQCIDFcL13TNG17UgZ7zSBGay77ucH2IKWMzwCpyVGWnX-a/file/index.m3u8
+https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/S3Ob883.png" tvg-id="", Summer Mix 2023
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
