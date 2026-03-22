@@ -420,7 +420,7 @@ https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", TV9 Marathi
-https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1774215090/ei/UgvAaa6wM9m0ir4P64_A-Ak/ip/64.236.153.144/id/Of_B60O-tIQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773317/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-w4atpZ8sqNUe928ws62zdKe7d4Ls_7LGt5BYEfb0eMdMI1T2y2cgzZT0YyFhfKiOgTNbfq7H8A/spc/6dlaFNzaSgbcOi8fbIAH1k5m5mcl5e7wnlGr_YcgcuSt4Tjrren0aul8DnBOg3zYxniTxQ/vprv/1/go/1/ns/ivoVsBZqyGjEVEIL-y5hljsT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/cgTDpE-zjLFjs-fU/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgXqomw4qiCcjLoPvJxmTAMxQkNimuhfXmyIYAnZVhhO4CIQD6jBeP36hdB_EwBw6UQwqpuRNo2sZ0qoRiRT7vSPCvyA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", News18 Lokmat
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
