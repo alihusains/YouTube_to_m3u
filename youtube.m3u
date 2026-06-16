@@ -474,7 +474,7 @@ https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", Geo News Live
-https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781605642/ei/qtAwasGjLv2clu8PmfyMoAE/ip/57.151.143.178/id/5EuImNNOrKk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828968/txs/51828967%2C51828968/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/ARmQxEW7AweQujtsS3c1Bpkdic22fKsvB433MpyRPjRhzvigEb9Ur6uPRpn83GjPBC--b3Eepp91CjgF/spc/SQ-umuWY2jNbwBAc9sAi7s7dlQMSaiPoQUtxU30KPiHhKPhIAdNuJ2Dg2a5a7lahB_z-_Q/vprv/1/go/1/ns/caNxcO_sEXZ7CyhTdFUdAH4V/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51987687/dover/11/n/6zWp8Uz7z-rOHMVmD/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgOdAzXp5thW1j1bkAlbIpkibv6cmNPL23Ifvy7upIpJ0CIF-wEJJaT2pLxUb1EO4EGYS4g4MH4UiJoo76hOXTUlx0/file/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", ARY News Live
 https://raw.githubusercontent.com/alihusains/YouTube_to_m3u/main/assets/moose_na.m3u
